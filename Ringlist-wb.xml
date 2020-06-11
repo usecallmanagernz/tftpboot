@@ -1,0 +1,10 @@
+<CiscoIPPhoneRingList>
+  <Ring>
+    <DisplayName>CTU 24</DisplayName>
+    <FileName>CTU_24.rwb</FileName>
+  </Ring>
+  <Ring>
+    <DisplayName>Old Telephone</DisplayName>
+    <FileName>Old_Telephone.rwb</FileName>
+  </Ring>
+</CiscoIPPhoneRingList>
