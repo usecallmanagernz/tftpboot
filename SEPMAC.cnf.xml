@@ -1,6 +1,13 @@
 <device>
   <fullConfig>true</fullConfig>
   <deviceProtocol>SIP</deviceProtocol>
+  <ipAddressMode>0</ipAddressMode>
+  <allowAutoConfig>true</allowAutoConfig>
+  <dadEnable>true</dadEnable>
+  <redirectEnable>false</redirectEnable>
+  <echoMultiEnable>false</echoMultiEnable>
+  <ipPreferenceModeControl>0</ipPreferenceModeControl>
+  <ipMediaAddressFamilyPreference>0</ipMediaAddressFamilyPreference>
   <devicePool>
     <dateTimeSetting>
       <dateTemplate>D/M/Y</dateTemplate>
