@@ -249,6 +249,7 @@
   </vendorConfig>
   <versionStamp>d902ed5a-c1e5-4233-b1d6-a960d53d1c3a</versionStamp>
   <loadInformation></loadInformation>
+  <inactiveLoadInformation></inactiveLoadInformation>
   <!-- <addOnModules>
     <addOnModule idx="1">
       <deviceType></deviceType>
@@ -325,6 +326,8 @@
   <capfList></capfList>
   <certHash></certHash>
   <encrConfig>false</encrConfig>
+  <userId></userId>
+  <ownerId></ownerId>
   <sshUserId></sshUserId>
   <sshPassword></sshPassword>
 </device>
