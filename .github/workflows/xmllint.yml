@@ -1,4 +1,4 @@
-name: XML Check
+name: xml lint check
 
 on:
   push:
@@ -10,7 +10,7 @@ on:
 
 jobs:
   xmllint:
-    name: Run xmllint check
+    name: Run xml lint check
     runs-on: ubuntu-latest
 
     steps:

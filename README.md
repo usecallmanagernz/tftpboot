@@ -1,4 +1,4 @@
-[![XML Check](https://github.com/usecallmanagernz/tftpboot/actions/workflows/xmllint.yml/badge.svg?branch=master)](https://github.com/usecallmanagernz/tftpboot/actions/workflows/xmllint.yml)
+[![xml lint check](https://github.com/usecallmanagernz/tftpboot/actions/workflows/xmllint.yml/badge.svg?branch=master)](https://github.com/usecallmanagernz/tftpboot/actions/workflows/xmllint.yml)
 
 # TFTP Boot Directory
 
