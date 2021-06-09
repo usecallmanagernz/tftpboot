@@ -1,0 +1,25 @@
+name: XML Check
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  xmllint:
+    name: Run xmllint check
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install packages
+        run: |
+          sudo apt install libxml2-utils 
+
+      - name: Run xmllint
+        run: |
+          xmllint --noout *.xml Desktops/*/*.xml
