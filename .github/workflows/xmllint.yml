@@ -4,9 +4,16 @@ on:
   push:
     branches:
       - master
+    paths:
+      - '*.xml'
+      - 'Desktops/*/*.xml'
+
   pull_request:
     branches:
       - master
+    paths:
+      - '*.xml'
+      - 'Desktops/*/*.xml'
 
 jobs:
   xmllint:
