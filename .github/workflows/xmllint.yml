@@ -1,4 +1,4 @@
-name: xml lint check
+name: xml lint
 
 on:
   push:
@@ -16,8 +16,8 @@ on:
       - 'Desktops/*/*.xml'
 
 jobs:
-  xmllint:
-    name: Run xml lint check
+  lint:
+    name: Run xml linter
     runs-on: ubuntu-latest
 
     steps:
