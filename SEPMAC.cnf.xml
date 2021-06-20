@@ -33,6 +33,14 @@
       </members>
     </callManagerGroup>
   </devicePool>
+  <!-- <TVS>
+    <members>
+      <member priority="0">
+        <port>2445</port>
+        <address></address>
+      </member>
+    </members>
+  </TVS> -->
   <!-- <vpnGroup>
     <mtu>1290</mtu>
     <failConnectTime>30</failConnectTime>
@@ -323,7 +331,12 @@
   <rollover>0</rollover>
   <joinAcrossLines>0</joinAcrossLines>
   <capfAuthMode>0</capfAuthMode>
-  <capfList></capfList>
+  <!-- <capfList>
+    <capf>
+      <phonePort>3804</phonePort>
+      <processNodeName></processNodeName>
+    </capf>
+  </capfList> -->
   <certHash></certHash>
   <encrConfig>false</encrConfig>
   <userId></userId>
