@@ -1,4 +1,4 @@
-[![xml lint](https://github.com/usecallmanagernz/tftpboot/actions/workflows/xmllint.yml/badge.svg?branch=master)](https://github.com/usecallmanagernz/tftpboot/actions/workflows/xmllint.yml)
+[![xml lint](https://github.com/usecallmanagernz/tftpboot/actions/workflows/xmllint.yml/badge.svg?branch=master)](https://github.com/usecallmanagernz/tftpboot/actions/workflows/xmllint.yml) ![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/usecallmanagernz/tftpboot?color=blue&label=version&sort=semver)
 
 # TFTP Boot Directory
 
