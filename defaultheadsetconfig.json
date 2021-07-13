@@ -1,0 +1,174 @@
+{
+    "headsetConfig": {
+        "templateConfiguration": {
+            "configTemplateVersion": "1",
+            "updatedTime": 1537299896,
+            "reportId": 3,
+            "modelSpecificSettings": [
+                {
+                    "modelSeries": "520/530",
+                    "models": [
+                        "520",
+                        "521",
+                        "522",
+                        "530",
+                        "531",
+                        "532"
+                    ],
+                    "modelFirmware": [
+                        {
+                            "firmwareName": "LATEST",
+                            "latest": true,
+                            "firmwareParams": [
+                                {
+                                    "name": "Speaker Volume",
+                                    "access": "Both",
+                                    "usageId": 32,
+                                    "value": 7
+                                },
+                                {
+                                    "name": "Microphone Gain",
+                                    "access": "Both",
+                                    "usageId": 33,
+                                    "value": 2
+                                },
+                                {
+                                    "name": "Sidetone",
+                                    "access": "Both",
+                                    "usageId": 34,
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Equalizer",
+                                    "access": "Both",
+                                    "usageId": 35,
+                                    "value": 3
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "modelSeries": "560",
+                    "models": [
+                        "560",
+                        "561",
+                        "562"
+                    ],
+                    "modelFirmware": [
+                        {
+                            "firmwareName": "LATEST",
+                            "latest": true,
+                            "firmwareParams": [
+                                {
+                                    "name": "Speaker Volume",
+                                    "access": "Both",
+                                    "usageId": 32,
+                                    "value": 7
+                                },
+                                {
+                                    "name": "Microphone Gain",
+                                    "access": "Both",
+                                    "usageId": 33,
+                                    "value": 2
+                                },
+                                {
+                                    "name": "Sidetone",
+                                    "access": "Both",
+                                    "usageId": 34,
+                                    "value": 1
+                                },
+                                {
+                                    "name": "Equalizer",
+                                    "access": "Both",
+                                    "usageId": 35,
+                                    "value": 3
+                                },
+                                {
+                                    "name": "Audio Bandwidth",
+                                    "access": "Admin",
+                                    "usageId": 36,
+                                    "value": 0
+                                },
+                                {
+                                    "name": "Bluetooth",
+                                    "access": "Admin",
+                                    "usageId": 39,
+                                    "value": 0
+                                },
+                                {
+                                    "name": "Conference",
+                                    "access": "Admin",
+                                    "usageId": 41,
+                                    "value": 1
+                                },
+                                {
+                                    "name": "UpgradeSource",
+                                    "access": "Admin",
+                                    "usageId": 19,
+                                    "value": 1
+                                },
+                                {
+                                    "name": "DECT Radio Range",
+                                    "access": "Admin",
+                                    "usageId": 37,
+                                    "value": 2
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "modelSeries": "730",
+                    "models": [
+                        "730"
+                    ],
+                    "modelFirmware": [
+                        {
+                            "firmwareName": "LATEST",
+                            "latest": true,
+                            "firmwareParams": [
+                                {
+                                    "name": "UpgradeSource",
+                                    "value": 1,
+                                    "access": "Admin",
+                                    "usageId": 19
+                                },
+                                {
+                                    "name": "AutoMute",
+                                    "value": 1,
+                                    "access": "User",
+                                    "usageId": 6
+                                },
+                                {
+                                    "name": "AutoPlay",
+                                    "value": 1,
+                                    "access": "User",
+                                    "usageId": 7
+                                },
+                                {
+                                    "name": "AutoAnswer",
+                                    "value": 1,
+                                    "access": "User",
+                                    "usageId": 9
+                                },
+                                {
+                                    "name": "Sidetone",
+                                    "value": 4,
+                                    "access": "User",
+                                    "usageId": 34
+                                },
+                                {
+                                    "name": "ActiveNoiseCancellation",
+                                    "value": 6,
+                                    "access": "User",
+                                    "usageId": 4
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -72,8 +72,8 @@
       <callHoldRingback>1</callHoldRingback>
       <localCfwdEnable>true</localCfwdEnable>
       <semiAttendedTransfer>true</semiAttendedTransfer>
-      <anonymousCallBlock>3</anonymousCallBlock>
-      <callerIdBlocking>3</callerIdBlocking>
+      <anonymousCallBlock>0</anonymousCallBlock>
+      <callerIdBlocking>0</callerIdBlocking>
       <dndControl>0</dndControl>
       <remoteCcEnable>true</remoteCcEnable>
       <retainForwardInformation>false</retainForwardInformation>
