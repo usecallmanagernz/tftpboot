@@ -7,6 +7,7 @@ on:
     paths:
       - '*.xml'
       - 'Desktops/*/*.xml'
+      - '.github/workflows/xmllint.yml'
 
   pull_request:
     branches:
@@ -14,6 +15,7 @@ on:
     paths:
       - '*.xml'
       - 'Desktops/*/*.xml'
+      - '.github/workflows/xmllint.yml'
 
 jobs:
   lint:
