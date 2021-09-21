@@ -141,7 +141,7 @@
         <forwardCallInfoDisplay>
           <callerName>true</callerName>
           <callerNumber>true</callerNumber>
-          <redirectedNumber>false</redirectedNumber>
+          <redirectedNumber>true</redirectedNumber>
           <dialedNumber>true</dialedNumber>
         </forwardCallInfoDisplay>
         <maxNumCalls>5</maxNumCalls>
