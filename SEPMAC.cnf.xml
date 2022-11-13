@@ -146,6 +146,7 @@
         </forwardCallInfoDisplay>
         <maxNumCalls>5</maxNumCalls>
         <busyTrigger>4</busyTrigger>
+        <recordingOption>enable</recordingOption>
       </line>
     </sipLines>
     <externalNumberMask></externalNumberMask>
@@ -202,8 +203,11 @@
     <showCallHistoryForSelectedLine>0</showCallHistoryForSelectedLine>
     <kemOneColumn>0</kemOneColumn>
     <lineMode>0</lineMode>
+    <lowerYourVoiceAlert>0</lowerYourVoiceAlert>
+    <markCallAsSpam>1</markCallAsSpam>
+    <callParkMonitor>1</callParkMonitor>
     <allCallsOnPrimary>0</allCallsOnPrimary>
-    <softKeyControl>0</softKeyControl>
+    <softKeyControl>1</softKeyControl>
     <settingsAccess>1</settingsAccess>
     <webProtocol>0</webProtocol>
     <webAccess>0</webAccess>
