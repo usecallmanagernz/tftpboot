@@ -17,6 +17,8 @@ on:
       - 'Desktops/*/*.xml'
       - '.github/workflows/xmllint.yml'
 
+  workflow_dispatch:
+
 jobs:
   lint:
     name: Run xml linter
