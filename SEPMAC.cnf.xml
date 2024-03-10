@@ -175,6 +175,7 @@
     <pcPort>0</pcPort>
     <spanToPCPort>1</spanToPCPort>
     <garp>0</garp>
+    <eapAuthentication>1</eapAuthentication>
     <rtcp>1</rtcp>
     <videoRtcp>1</videoRtcp>
     <voiceVlanAccess>0</voiceVlanAccess>
