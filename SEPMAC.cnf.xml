@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <device>
   <fullConfig>true</fullConfig>
   <deviceProtocol>SIP</deviceProtocol>
@@ -211,11 +212,14 @@
     <softKeyControl>1</softKeyControl>
     <settingsAccess>1</settingsAccess>
     <webProtocol>0</webProtocol>
+    <tls12Only>0</tls12Only>
     <webAccess>0</webAccess>
     <webAdmin>1</webAdmin>
     <adminPassword></adminPassword>
     <sshAccess>0</sshAccess>
     <detectCMConnectionFailure>0</detectCMConnectionFailure>
+    <disableTLSCiphers></disableTLSCiphers>
+    <adminConfigurableRinger>0</adminConfigurableRinger>
     <g722CodecSupport>1</g722CodecSupport>
     <handsetWidebandEnable>2</handsetWidebandEnable>
     <headsetWidebandEnable>2</headsetWidebandEnable>
