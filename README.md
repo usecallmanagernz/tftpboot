@@ -1,4 +1,4 @@
-[![XML Lint](https://img.shields.io/github/actions/workflow/status/usecallmanagernz/tftpboot/xmllint.yml?branch=master&label=xml%20lint)](https://github.com/usecallmanagernz/tftpboot/actions/workflows/xmllint.yml) [![Version](https://img.shields.io/github/v/tag/usecallmanagernz/tftpboot?color=blue&label=version&sort=semver)](https://github.com/usecallmanagernz/tftpboot/releases)
+[![XML Lint](https://img.shields.io/github/actions/workflow/status/usecallmanagernz/tftpboot/xmllint.yml?branch=master&label=xml%20lint)](https://github.com/usecallmanagernz/tftpboot/actions/workflows/xmllint.yml) [![Version](https://img.shields.io/github/v/tag/usecallmanagernz/tftpboot?color=blue&label=version&sort=semver)](https://github.com/usecallmanagernz/tftpboot/releases) [![Licence](https://img.shields.io/github/license/usecallmanagernz/tftpboot?color=red)](LICENSE)
 
 # TFTP Boot Directory
 
