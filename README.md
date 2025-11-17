@@ -4,11 +4,11 @@
 
 Example XML configuration files.
 
-See [SEPMAC.cnf.xml](http://usecallmanager.nz/sepmac-cnf-xml.html),
-[Dial Template](http://usecallmanager.nz/dial-template.html),
-[Line Keys](http://usecallmanager.nz/line-keys.html),
-[Soft Keys](http://usecallmanager.nz/soft-keys.html),
-[Feature Policy](http://usecallmanager.nz/feature-policy.html),
-[Ring Tones](http://usecallmanager.nz/ring-tones.html) and
-[Background Images](http://usecallmanager.nz/background-images.html) for
+See [SEPMAC.cnf.xml](https://usecallmanager.nz/sepmac-cnf-xml.html),
+[Dial Template](https://usecallmanager.nz/dial-template.html),
+[Line Keys](https://usecallmanager.nz/line-keys.html),
+[Soft Keys](https://usecallmanager.nz/soft-keys.html),
+[Feature Policy](https://usecallmanager.nz/feature-policy.html),
+[Ring Tones](https://usecallmanager.nz/ring-tones.html) and
+[Background Images](https://usecallmanager.nz/background-images.html) for
 documentation on what each file and XML tag does.
