@@ -162,7 +162,7 @@
   <commonProfile>
     <phonePassword></phonePassword>
     <backgroundImageAccess>true</backgroundImageAccess>
-    <callLogBlfEnabled>2</callLogBlfEnabled>
+    <callLogBlfEnabled>0</callLogBlfEnabled>
   </commonProfile>
   <vendorConfig>
     <defaultWallpaperFile></defaultWallpaperFile>
