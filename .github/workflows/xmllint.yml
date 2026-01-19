@@ -5,17 +5,20 @@ on:
     branches:
       - master
     paths:
-      - '*.xml'
-      - 'Desktops/*/*.xml'
-      - '.github/workflows/xmllint.yml'
+      - "*.xml"
+      - "Desktops/*/*.xml"
+      - ".github/workflows/xmllint.yml"
 
   pull_request:
     branches:
       - master
     paths:
-      - '*.xml'
-      - 'Desktops/*/*.xml'
-      - '.github/workflows/xmllint.yml'
+      - "*.xml"
+      - "Desktops/*/*.xml"
+      - ".github/workflows/xmllint.yml"
+
+  schedule:
+    - cron: "0 8 1 * *"
 
   workflow_dispatch:
 
